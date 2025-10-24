@@ -10,7 +10,7 @@ title: Readings
 uid: 13e56c2c-c9d3-e30d-3537-2f36ef7ce582
 ---
 
-Many of the readings may be downloaded from the {{% resource_link "4dd555aa-d7ec-45e7-a530-07746d9f530b" "Project Gutenberg" %}} site. Those available for download are linked from the bibliographic entry.
+Many of the readings may be downloaded from the [Project Gutenberg](http://gutenberg.org/) site. Those available for download are linked from the bibliographic entry.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +38,7 @@ Power and Authority
 {{< tdopen >}}
 
 
-Plato. Excerpts from _The Republic_. ({{% resource_link "77d81abf-1604-4a43-baf8-e544e2408ea0" "download from Project Gutenberg" %}})
+Plato. Excerpts from _The Republic_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1497))
 
 Dostoyevksy. _The Legend of the Grand Inquistor_.
 
@@ -84,7 +84,7 @@ Loyalty and Conflict of Values
 
 Sophocles. _Antigone_.
 
-Plato. _Crito_. ({{% resource_link "48da5fca-fb22-4756-92e9-6c42a28db40e" "download from Project Gutenberg" %}})
+Plato. _Crito_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1657))
 
 Case Study: New York Times, "Into the Mouths of Babes."
 
@@ -102,9 +102,9 @@ Leadership and Followership
 {{< tdopen >}}
 
 
-Shakespeare. _Julius Caesar_. ({{% resource_link "a624bbb7-f691-4e76-8812-e903f3b7eb12" "download from Project Gutenberg" %}})
+Shakespeare. _Julius Caesar_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/2263))
 
-Machiavelli. _The Prince_. Ch. 14-18. ({{% resource_link "0937887a-5086-4abc-b100-6915380f1cfe" "download from Project Gutenberg" %}})
+Machiavelli. _The Prince_. Ch. 14-18. ([download from Project Gutenberg](http://www.gutenberg.org/etext/1232))
 
 
 {{< tdclose >}}
@@ -120,9 +120,9 @@ Dirty Money
 {{< tdopen >}}
 
 
-Shaw, George Bernard. _Major Barbara_. ({{% resource_link "05a515cd-3930-4439-81c7-540f528dccd9" "download from Project Gutenberg" %}})
+Shaw, George Bernard. _Major Barbara_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/3790))
 
-St. Matthew. _The Sermon on the Mount_; _The Parable of Payment_. ({{% resource_link "caa70748-a8a1-43d0-b855-2acff32321af" "download from Project Gutenberg" %}})
+St. Matthew. _The Sermon on the Mount_; _The Parable of Payment_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/10))
 
 Hobbes, Thomas. Excerpt from _Leviathan_.
 
@@ -186,7 +186,7 @@ Taking Charge
 {{< tdopen >}}
 
 
-Conrad, Joseph. _The Secret Sharer_. ({{% resource_link "7df88f50-d317-4c4e-87e9-862a4d9d11f0" "download from Project Gutenberg" %}})
+Conrad, Joseph. _The Secret Sharer_. ([download from Project Gutenberg](http://www.gutenberg.org/etext/220))
 
 Orwell, George. _Shooting an Elephant_.
 
@@ -206,7 +206,7 @@ Living with the Truth
 {{< tdopen >}}
 
 
-Swift, Jonathan. _Gulliver's Travels_. Book 4 only. ({{% resource_link "bd1c20e3-2709-4d0d-8134-183e2639da4f" "download from Project Gutenberg" %}})
+Swift, Jonathan. _Gulliver's Travels_. Book 4 only. ([download from Project Gutenberg](http://www.gutenberg.org/etext/829))
 
 Kant, Immanuel. _On the Supposed Right to Lie_.
 
